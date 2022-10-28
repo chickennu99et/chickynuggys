@@ -1,5 +1,5 @@
-
-<p> this is my forst website. Lol this is kinda weird using code
+# website
+<p> this is my first website. Lol this is kinda weird using code
 </p>
 
 <p> so who am I?
